@@ -18,4 +18,4 @@ if [ $? -ne 0 ]; then
   exit 1
 fi
 
-echo "Installation successful. Run '${name} -h' for usage."
+echo "Installation successful. Run '${name} -help' for usage."
