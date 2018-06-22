@@ -22,3 +22,4 @@ Screenshot
 Demo
 ----
 <img src="resources/readme/demo.gif" alt="GIF demo" width="65%" height="65%"/>
+

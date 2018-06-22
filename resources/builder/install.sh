@@ -14,7 +14,7 @@ name="mastermind"
 cp ${name} /usr/local/bin
 
 if [ $? -ne 0 ]; then
-  echo "Installation was unsuccessful. Maybe you don't have permissions to write to /usr/local/bin. Try copying 'img' to PATH manually."
+  echo "Installation was unsuccessful. Maybe you don't have permissions to write to /usr/local/bin. Try copying '${name}' to PATH manually."
   exit 1
 fi
 
