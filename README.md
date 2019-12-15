@@ -12,7 +12,7 @@ Command line implementation of the popular Mastermind game. Rules, key control a
 #### macOS
 ```
 brew tap codeliveroil/apps
-brew install img
+brew install mastermind
 ```
 
 #### Other
